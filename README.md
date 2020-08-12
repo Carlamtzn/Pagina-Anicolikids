@@ -1,2 +1,2 @@
-# Pagina-Anicolikids
-Nuestra pagina
+# Pagina personal
+Pagina administrador
